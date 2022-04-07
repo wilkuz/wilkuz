@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @wilkuz, and aspiring web developer from Sweden
 - 👀 I’m interested in trading, crypto, HTML, CSS, Javascript and Python
-- 🌱 I’m currently learning Node.js and building as much as I can.
+- 🌱 I’m currently learning Node.js & React, building as much as I can.
+-  Comfortable in HTML, CSS, JS
