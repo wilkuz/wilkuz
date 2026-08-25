@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @wilkuz
-- 👀 I’m interested in trading, crypto, HTML, CSS, Javascript and Python
-- 🌱 I’m currently learning Node.js & React, building as much as I can.
--  Comfortable in HTML, CSS, JS
+
